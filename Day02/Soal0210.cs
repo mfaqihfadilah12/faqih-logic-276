@@ -4,27 +4,27 @@ using System.Text;
 
 namespace Day02
 {
-    public class Soal0206
+    public class Soal0210
     {
         private int Value { get; set; }
-        public Soal0206()
+        public Soal0210()
         {
-            Console.Write("Nilai n : ");
+            Console.Write("nilai n : ");
             Value = int.Parse(Console.ReadLine());
             Process();
         }
 
         public void Process()
         {
-            for (int i = 0; i < Value; i++)
+            for (int i = 1; i <= Value; i++)
             {
-                if ((i + 1) % 3 == 0)
+                if ((i - 3) % 3 == 1 && (i - 3) % 6 == 1)
                 {
-                    Console.Write(" *\t");
+                    Console.Write(" XXX\t");
                 }
                 else
                 {
-                    Console.Write($"{i * 4 + 1} \t");
+                    Console.Write($"{Math.Pow(3, i)} \t");
                 }
             }
             Console.WriteLine();

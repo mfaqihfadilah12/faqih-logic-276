@@ -44,10 +44,10 @@ namespace Day02
                         Soal0208 soal0208 = new Soal0208();
                         break;
                     case 9:
-                        
+                        Soal0209 soal0209 = new Soal0209();
                         break;
                     case 10:
-
+                        Soal0210 soal0210 = new Soal0210();
                         break;
                     //case 11:
                     //    Soal02LatihanArray soal2LatihanArray = new Soal02LatihanArray();

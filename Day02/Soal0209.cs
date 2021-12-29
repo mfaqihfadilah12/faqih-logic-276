@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Day02
 {
-    public class Soal0206
+    public class Soal0209
     {
         private int Value { get; set; }
-        public Soal0206()
+        public Soal0209()
         {
             Console.Write("Nilai n : ");
             Value = int.Parse(Console.ReadLine());
@@ -16,16 +16,13 @@ namespace Day02
 
         public void Process()
         {
-            for (int i = 0; i < Value; i++)
+            for (int i = 1; i <= Value - 2; i++)
             {
-                if ((i + 1) % 3 == 0)
+                if ((i - 2) % 2 == 1 && i >= 0)
                 {
                     Console.Write(" *\t");
                 }
-                else
-                {
-                    Console.Write($"{i * 4 + 1} \t");
-                }
+                Console.Write($"{Math.Pow(4, i)} \t");
             }
             Console.WriteLine();
             Console.WriteLine("Press Any Key to Continue...");
