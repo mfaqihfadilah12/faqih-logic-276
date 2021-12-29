@@ -13,20 +13,22 @@ namespace Day01
         }
         public void Process()
         {
-            int e = 1;
+            int f = 1;
             for (int i = 1; i <= _Value; i++)
             {
                 if (i % 3 == 0)
                 {
-                    Console.Write("*\t");
+                    Console.Write(" *\t");
                 }
                 else
                 {
-                    Console.Write($"{e}\t");
-                    e += 4;
+                    Console.Write($"{f}\t");
+                    f += 4;
                 }
+
             }
-                Console.WriteLine("");
+
+            Console.WriteLine("");
                 Console.WriteLine("Press Any Key..");
                 Console.ReadLine();
             }

@@ -14,3 +14,19 @@ C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.Fi
 C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\BaseUtility\obj\Debug\net5.0\ref\BaseUtility.dll
 C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\BaseUtility\obj\Debug\net5.0\BaseUtility.pdb
 C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\BaseUtility\obj\Debug\net5.0\BaseUtility.genruntimeconfig.cache
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\BaseUtility.exe
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\BaseUtility.deps.json
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\BaseUtility.runtimeconfig.json
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\BaseUtility.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\BaseUtility.dll
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\ref\BaseUtility.dll
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\bin\Debug\net5.0\BaseUtility.pdb
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.AssemblyInfo.cs
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.dll
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\ref\BaseUtility.dll
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.pdb
+C:\Users\User\Source\Repos\mfaqihfadilah12\faqih-logic-276\BaseUtility\obj\Debug\net5.0\BaseUtility.genruntimeconfig.cache

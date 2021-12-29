@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\Day02.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\Day02\\Day02.csproj": {}
   },
   "projects": {
-    "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\BaseUtility\\BaseUtility.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\BaseUtility\\BaseUtility.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj",
         "projectName": "BaseUtility",
-        "projectPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\BaseUtility\\BaseUtility.csproj",
-        "packagesPath": "C:\\Users\\XSIS Bootcamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\BaseUtility\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XSIS Bootcamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -53,35 +54,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\Day02.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\Day02\\Day02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\Day02.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\Day02\\Day02.csproj",
         "projectName": "Day02",
-        "projectPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\Day02.csproj",
-        "packagesPath": "C:\\Users\\XSIS Bootcamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\Day02\\Day02.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\Day02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XSIS Bootcamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\BaseUtility\\BaseUtility.csproj": {
-                "projectPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\BaseUtility\\BaseUtility.csproj"
+              "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj"
               }
             }
           }
@@ -110,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

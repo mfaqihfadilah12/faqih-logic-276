@@ -11,23 +11,25 @@ namespace Day01
         {
             _Value = val;
         }
+
         public void Process()
         {
-            int e = 4;
+            int f = 4;
             for (int i = 1; i <= _Value; i++)
             {
                 if (i % 3 == 0)
                 {
-                    Console.Write("*\t");
+                    Console.Write(" *\t");
                 }
                 else
                 {
-                    Console.Write($"{e}\t");
-                    e *= 4;
+                    Console.Write($"{f}\t");
+                    f *= 4;
                 }
+
             }
-            Console.WriteLine("");
-            Console.WriteLine("Press Any Key..");
+            Console.WriteLine();
+            Console.WriteLine("Press Any Key to Continue..");
             Console.ReadLine();
         }
     }
