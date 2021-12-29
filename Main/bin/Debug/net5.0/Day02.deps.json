@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day02/1.0.0": {
+        "dependencies": {
+          "BaseUtility": "1.0.0"
+        },
+        "runtime": {
+          "Day02.dll": {}
+        }
+      },
+      "BaseUtility/1.0.0": {
+        "runtime": {
+          "BaseUtility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

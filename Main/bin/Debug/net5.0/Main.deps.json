@@ -8,15 +8,29 @@
     ".NETCoreApp,Version=v5.0": {
       "Main/1.0.0": {
         "dependencies": {
-          "Day01": "1.0.0"
+          "Day01": "1.0.0",
+          "Day02": "1.0.0"
         },
         "runtime": {
           "Main.dll": {}
         }
       },
+      "BaseUtility/1.0.0": {
+        "runtime": {
+          "BaseUtility.dll": {}
+        }
+      },
       "Day01/1.0.0": {
         "runtime": {
           "Day01.dll": {}
+        }
+      },
+      "Day02/1.0.0": {
+        "dependencies": {
+          "BaseUtility": "1.0.0"
+        },
+        "runtime": {
+          "Day02.dll": {}
         }
       }
     }
@@ -27,7 +41,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "BaseUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Day01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day02/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\XSIS Bootcamp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\XSIS Bootcamp\\.nuget\\packages"
+    ]
+  }
+}

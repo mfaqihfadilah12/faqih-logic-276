@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "BaseUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BaseUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseUtility.dll": {}
+        }
+      },
       "Day01/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -11,19 +21,43 @@
         "runtime": {
           "bin/placeholder/Day01.dll": {}
         }
+      },
+      "Day02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BaseUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day02.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "BaseUtility/1.0.0": {
+      "type": "project",
+      "path": "../BaseUtility/BaseUtility.csproj",
+      "msbuildProject": "../BaseUtility/BaseUtility.csproj"
+    },
     "Day01/1.0.0": {
       "type": "project",
       "path": "../Day01/Day01.csproj",
       "msbuildProject": "../Day01/Day01.csproj"
+    },
+    "Day02/1.0.0": {
+      "type": "project",
+      "path": "../Day02/Day02.csproj",
+      "msbuildProject": "../Day02/Day02.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Day01 >= 1.0.0"
+      "Day01 >= 1.0.0",
+      "Day02 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -54,6 +88,9 @@
           "projectReferences": {
             "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day01\\Day01.csproj": {
               "projectPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day01\\Day01.csproj"
+            },
+            "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\Day02.csproj": {
+              "projectPath": "C:\\Batch 270\\001. Logic\\xa-bootcamp-batch-270-logic-qa\\009. Epen\\001. App\\003.FilteringTest\\Lotic 276\\Day02\\Day02.csproj"
             }
           }
         }

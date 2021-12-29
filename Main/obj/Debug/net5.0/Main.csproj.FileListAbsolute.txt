@@ -21,3 +21,15 @@ C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.Fi
 C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\obj\Debug\net5.0\ref\Main.dll
 C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\obj\Debug\net5.0\Main.pdb
 C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\obj\Debug\net5.0\Main.genruntimeconfig.cache
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\Day02.deps.json
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\Day02.runtimeconfig.json
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\Day02.runtimeconfig.dev.json
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\Day02.exe
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\Day02.dll
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\Day02.pdb
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\BaseUtility.deps.json
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\BaseUtility.runtimeconfig.json
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\BaseUtility.runtimeconfig.dev.json
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\BaseUtility.exe
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\BaseUtility.dll
+C:\Batch 270\001. Logic\xa-bootcamp-batch-270-logic-qa\009. Epen\001. App\003.FilteringTest\Lotic 276\Main\bin\Debug\net5.0\BaseUtility.pdb
