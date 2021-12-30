@@ -62,6 +62,11 @@ namespace Day02
                         Soal0203Array soal0203Array = new Soal0203Array();
                         break;
                     case 14:
+                        Soal0204Array soal0204Array = new Soal0204Array();
+                        break;
+                    case 15:
+                        Soal0205Array soal0205Array = new Soal0205Array();
+                        break:
                     default:
                         break;
                 }

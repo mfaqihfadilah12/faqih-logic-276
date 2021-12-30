@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj": {}
+    "C:\\Users\\XSIS Bootcamp\\Documents\\project_faqih\\logic-faqih-276\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj": {
+    "C:\\Users\\XSIS Bootcamp\\Documents\\project_faqih\\logic-faqih-276\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj",
+        "projectUniqueName": "C:\\Users\\XSIS Bootcamp\\Documents\\project_faqih\\logic-faqih-276\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj",
         "projectName": "BaseUtility",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\mfaqihfadilah12\\faqih-logic-276\\BaseUtility\\obj\\",
+        "projectPath": "C:\\Users\\XSIS Bootcamp\\Documents\\project_faqih\\logic-faqih-276\\faqih-logic-276\\BaseUtility\\BaseUtility.csproj",
+        "packagesPath": "C:\\Users\\XSIS Bootcamp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XSIS Bootcamp\\Documents\\project_faqih\\logic-faqih-276\\faqih-logic-276\\BaseUtility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\XSIS Bootcamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net5.0": {
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
